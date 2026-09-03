@@ -23,3 +23,7 @@ Foundational material completed through:
 * functions, injectivity, surjectivity, composition, image, and preimage.
 
 The repository will evolve as the course moves toward algebraic structures and category theory.
+
+Added experiments on algebraic structures, inheritance, and typeclass instance synthesis.
+
+
